@@ -1,1 +1,2 @@
-# Rubber-ducky-script-Windows-11-
+# Rubber-ducky-script-Windows-11
+# This script first waits for 1 second, then presses the "Windows" key to open the start menu. After waiting for 200 milliseconds, it types "chrome" and presses "Enter" to open Google Chrome. The script waits for 1 second, types the desired URL, and presses "Enter" to visit the website. After waiting for 5 seconds, the script presses the "Windows" key again, types "notepad" and presses "Enter" to open Notepad. The script then waits for 1 second and types "You've been hacked".
